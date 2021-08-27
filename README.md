@@ -6,6 +6,8 @@
 
 Python library that wraps matplotlib to generate detailed Gantt charts.
 
+## Features
+
 ## Instalation
 
 ## Basic Usage
