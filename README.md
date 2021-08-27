@@ -4,8 +4,6 @@
 
 [comment]: <> (Badges)
 
-## ganttpy
-
 Python library that wraps matplotlib to generate detailed Gantt charts.
 
 ## Instalation
@@ -14,3 +12,6 @@ Python library that wraps matplotlib to generate detailed Gantt charts.
 
 [comment]: <> (Pictures of results)
 
+## Contribute
+Everyone is encouraged to contribute to the ganttpy library by forking the Github repository and making a pull request 
+or opening an issue.
